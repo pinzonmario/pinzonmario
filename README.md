@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @pinzonmario.
-- 👀 I’m interested in html, css and javascript.
-- 🌱 I’m currently learning html, css and javascript.
+- 👋
