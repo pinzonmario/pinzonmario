@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 ¡Hola, soy Mario Pinzón!
 
-<!--
-**pinzonmario/pinzonmario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Actualmente estudio la **Licenciatura en Desarrollo de Software**  
+💻 Me estoy especializando en el desarrollo **Back-End con .NET**  
+🌱 Estoy aprendiendo y trabajando con tecnologías como **C#**, **ASP.NET Core** y **SQL Server**.  
 
-Here are some ideas to get you started:
+## 📚 En proceso de aprendizaje
+- Patrones de diseño
+- Arquitectura Limpia
+- Algoritmos y estructuras de datos para mejorar mi lógica de programación
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Objetivo
+Convertirme en un **Desarrollador Back-End profesional** con dominio en .NET, capaz de crear soluciones robustas, escalables y seguras.
+
+¡Gracias por visitar mi perfil! 🚀
